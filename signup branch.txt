@@ -2,3 +2,6 @@ facebook new account signup
 new email id required
 new password required
 setup all this to create new facebook account
+
+
+if you have already account you can just login, no need to register
