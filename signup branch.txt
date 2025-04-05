@@ -5,3 +5,5 @@ setup all this to create new facebook account
 
 
 if you have already account you can just login, no need to register
+
+after login send a friend request to your friends
